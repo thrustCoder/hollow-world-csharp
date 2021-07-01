@@ -1,6 +1,6 @@
 ﻿namespace HollowConsoleApp1.Model
 {
-	// Named with "Custom" prefix since there is a pre-existing class called LinkedListNode.
+	// Named with "Custom" suffix since there is a pre-existing class called LinkedListNode.
 	// You can also use that if you want.
 	class LinkedListNodeCustom
 	{
