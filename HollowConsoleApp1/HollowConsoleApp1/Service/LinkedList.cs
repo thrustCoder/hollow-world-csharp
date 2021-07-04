@@ -16,7 +16,7 @@ namespace HollowConsoleApp1.Service
 			l12.Next = l13;
 			l13.Next = l14;
 
-			Console.WriteLine("Length of linked list: " + Length(l11).ToString());
+			Console.WriteLine($"Length of linked list: {Length(l11)}");
 		}
 
 		private static int Length(LinkedListNodeCustom head)
