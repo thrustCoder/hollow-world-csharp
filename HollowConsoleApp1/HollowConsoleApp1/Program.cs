@@ -9,7 +9,7 @@ namespace HollowConsoleApp1
 		{
 			Console.WriteLine("Hollow World");
 
-			LinkedList.PrepFindLength();
+			LinkedList.ConvertListToSingleNum();
 		}
 	}
 }
