@@ -21,6 +21,7 @@ namespace HollowConsoleApp1.Service
 		public static void URLifyStringWrapper()
         {
 			Console.WriteLine(URLifyString(null));
+			Console.WriteLine(URLifyString(""));
 			Console.WriteLine(URLifyString("John Smith"));
 			Console.WriteLine(URLifyString(" John Smith  "));
 			Console.WriteLine(URLifyString("John   Smith  "));
